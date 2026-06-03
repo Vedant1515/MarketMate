@@ -1,13 +1,4 @@
----
-title: MarketMate
-emoji: 🥦
-colorFrom: green
-colorTo: blue
-sdk: docker
-pinned: false
----
-
-# MarketMate
+# MarketMate 🥦
 
 AI ordering assistant for a Melbourne fresh produce retailer.
 
