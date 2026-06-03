@@ -1,0 +1,28 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+backend/venv/
+*.egg-info/
+dist/
+build/
+
+# Environment - NEVER commit real keys
+.env
+
+# ChromaDB local vector store
+backend/chroma_db/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
