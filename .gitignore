@@ -26,3 +26,5 @@ frontend/dist/
 
 # Logs
 *.log
+
+*.xlsx
