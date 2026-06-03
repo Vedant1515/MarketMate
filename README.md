@@ -1,4 +1,5 @@
-# MarketMate 🥦
+# MarketMate 🥦 - Agentic RAG System for Produce Ordering
+
 
 AI ordering assistant for a Melbourne fresh produce retailer.
 
